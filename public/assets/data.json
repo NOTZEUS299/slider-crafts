@@ -1,0 +1,40 @@
+{
+  "sliderData": [
+    {
+      "id": "1",
+      "title": "MOUNT ETNA",
+      "des": "ITALY",
+      "url": "./circleSlider/mountEtna.jpg"
+    },
+    {
+      "id": "2",
+      "title": "PARO HILLS",
+      "des": "BHUTAN",
+      "url": "./circleSlider/paroHills.jpg"
+    },
+    {
+      "id": "3",
+      "title": "COUNTY CLARE",
+      "des": "IRELAND",
+      "url": "./circleSlider/countyClare.jpg"
+    },
+    {
+      "id": "4",
+      "title": "YAMANASHI",
+      "des": "JAPAN",
+      "url": "./circleSlider/yamanashi.jpg"
+    },
+    {
+      "id": "5",
+      "title": "GRAN CANARIA",
+      "des": "SPAIN",
+      "url": "./circleSlider/granCanaria.jpg"
+    },
+    {
+      "id": "6",
+      "title": "RAJASTHAN",
+      "des": "INDIA",
+      "url": "./circleSlider/rajasthan.jpg"
+    }
+  ]
+}
